@@ -1,1 +1,1 @@
-This is an example og working with git branches
+This is an example of working with git branches.
